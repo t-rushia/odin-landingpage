@@ -205,3 +205,12 @@ button:hover {
 .call-text p {
   color: #e5e7eb;
 }
+
+.footer {
+  height: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #1f2937;
+  color: #e5e7eb;
+}
